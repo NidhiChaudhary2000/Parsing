@@ -1,5 +1,6 @@
 # Parsing
-Automatically visit website and scroll through items
+Automatically visit website and scroll through items.
+
 Functionalities (Still in development): Parse different items based on SKU to check availability or stock
 
 ## Prerequisites
