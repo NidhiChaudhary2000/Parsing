@@ -8,8 +8,8 @@ from time import sleep
 import sys
 import time
 
-
-driver = webdriver.Chrome("C:\\Users\\nidhi\\Documents\\ntu-automate-star-wars-master\\chromedriver.exe")
+#location = #location of chromedriver
+driver = webdriver.Chrome("{location}/chromedriver.exe")
 driver.get("https://ap.louisvuitton.com/")
 
 #target the new button and click it
